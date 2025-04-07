@@ -1,0 +1,16 @@
+body {
+  max-width: 600px;
+}
+div{
+  margin-bottom: 20px;
+}
+input {
+  position: sticky;
+  left: 300px;
+  margin: 3px;
+}
+
+span {
+  position: sticky;
+  left: 300px;
+}
